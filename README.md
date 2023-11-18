@@ -1,5 +1,5 @@
 # Chatroom Application
-
+![Project Screen Shot](ChatRoom.png)
 ## Overview
 This Chatroom application is a platform where users can join chat rooms for group messaging or send direct messages to each other. It facilitates real-time communication among users in a seamless and efficient manner.
 
